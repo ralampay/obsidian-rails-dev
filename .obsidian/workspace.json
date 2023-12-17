@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b24ad5798ae2ffcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Setting up Tests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Setting up Tests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Setting up Tests.md"
               }
             }
           }
@@ -159,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b24ad5798ae2ffcf",
+  "active": "236f843541a0b62a",
   "lastOpenFiles": [
-    "Setting up Tests.md",
     "README.md",
+    "Setting up Tests.md",
     "Bootstrapping Rails API Project.md",
     "Untitled 1.md"
   ]
